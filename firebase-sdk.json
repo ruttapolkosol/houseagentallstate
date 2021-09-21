@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "microbittempreader-16e2d",
+  "private_key_id": "35edb8ed379d3b298b498b79bb6ec1d26e3c576f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAIsgwAGLLrymW\nOiuHxwhaGbMlrzBaRjmXQuF2ajkzckp+kXm0MW8dtOcB8OOSFLzNklAt576YnfAz\n4UD4RHIkTdDC9UAzxhT7yZHCZ21R0EWPE/ju2TsH37niO4IKgJTwcuMdG9JyhVb9\nXdGPWK9M+rx/8qRdriN627NiUaiH2fDGk42AEFBI2OJIbkfl/Rj+te94+7RRmxi2\ncN5vG9NNeCYm/uZ3gpm8dJEYULuhHYqEdBHVCpB93pmkM+crzA97BRoCoXSlgCV9\nzuHfyAl9X97huIRLKsh4f+kw9g3F0i2psaxmUBOOrU4JHUZxOR/2AxXpg0V2IAdM\ng+felui1AgMBAAECggEAEzJmdgVT2a4CpbPiLYrBVt9Cev1qA1sI3ggcpswuMum0\nb7jxRAO8amdsvVDoK+xOgOuhfzSsYmtFWKmk6ClOjjoIJbKDW6jq581X9uiGj6oT\niRwhvxuNPlgoJmZzs8DtIKkZ8AqbmD2iV2ZMTdo6iaJzuwTvTzza5qeU4Lnv8MK1\nbAizrR5Hriz6bOFsTX7lBtrHAqawQUBPw3R7GnSiybHOQ3ARqOoDnIga5YzYpB5p\nIQF9+ld/wHbeLD7yupk9tyTQx0E28Rjb9cn0w1AE2HpyJWtzVW+jHlk/K1N73rih\n9OK1vrdBEfKcJIUpr16o1Tnqicb20jLGLsJGA4ubgQKBgQDiW5/e5dPLlmz78T3u\nykFpiNSyWLZVqXoiI7+VD+bvNpl6euNlwurCq5kdXkZy3Iv7WHbPZz1ps4e0WC80\nzxGw29W+lACrZysjgRwz28fDyNmziyMXh2GdA/jbGCCPjpgAoFYzKl7+w01aRz5d\n1oNoFWt1tEh+iogCnPFjNTScyQKBgQDZS+em3lfasKzujmXw/8WYZ1gEdZcLdohz\nEEJPgy9eclS966oU6y8K4rwymz4eMZrkvIqrhnPGTZlpecuAGkQhnf3JXfk2nyQs\nu5FFMGIpiWPRlEr08LVJj0E/pfHUdApz0aifzh8Q/oZXQFWEf3xRS0t55+rXc5XQ\nZM2Z29UejQKBgH1Iex7Sk7v94Qo9BqtQ1I2FxzuC8EBPUiLtKE9ngsjprl7k/1FG\nZcsjUNa5ZEKUoQGXgALhQFNto3GE0XPoHAGIWzBlGE3GB1FaV3K4dUN+ukeufdi6\n/KL8HNOe8f6izKykEbG2BOf6zqhmADXN0eNc36JBC1LGd+sCVHQ1cY5JAoGAK1XV\n9xN0leqSMmk3r15y+7fwd8Mzwld7Uuc1MkJJWh6XA+FR5CYbFaKuQbFwK/lcmK15\nQkfoIu4q4Dwn935FhCbMDDKvltMaFcm6aQADM6FwxMU8RakTnn3xV04y8lnKE9sG\nNAiZbXw1MoVkCK6cDmJjxQYZcapdgFf6IOsUj6kCgYAncaLvqyfqlRkpUuu8siRZ\n4HbY0D4I2G9y51LiYI0VQyvb4B0PZoFwhtEj+++k+5bPeT/eTE9HqDI9QxZnC95d\nBh2XhutLjLV/kvQb7r9p4m8ddnBxlM036pPuM47fQLzhY9Q2VpmbQ0hqlVrvUQ/l\nr/sfdcTalMfz/AONwTns2g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-z0bta@microbittempreader-16e2d.iam.gserviceaccount.com",
+  "client_id": "114712448783814994160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z0bta%40microbittempreader-16e2d.iam.gserviceaccount.com"
+}
